@@ -28,5 +28,9 @@ This repository provides an overview of RAI papers in the following areas:
 - **Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI** *Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez*[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)]
 - **A Review on Explainable Artificial Intelligence for Healthcare: Why, How, and When?** * Subrato Bharati, M. Rubaiyat Hossain Mondal*[[paper](https://arxiv.org/abs/2304.04780)]
 - **Fairness in Machine Learning: A Survey** *Simon Caton, Christian Haas*[[paper](https://dl.acm.org/doi/10.1145/3616865)]
-
-
+- **Efficient data representation by selecting prototypes with importance weights** *Gurumoorthy, K. S., Dhurandhar*[[paper](https://arxiv.org/abs/1707.01212)]
+- **TED: Teaching AI to explain its decisions** *Hind, M., Wei, D., Campbell*[[paper](https://doi.org/10.1145/3306618.3314273)]
+- **A unified approach to interpreting model predictions** *Lundberg, S. M., & Lee*[[paper](https://github.com/slundberg/shap)]
+- **Leveraging latent features for local explanations** *Luss, R., Chen, P. Y*[[paper](https://arxiv.org/abs/1905.12698)]
+- **Contrastive Explanations Method with Monotonic Attribute Functions** *Luss et al*[[paper](https://arxiv.org/abs/1905.12698)]
+- **Boolean Decision Rules via Column Generation** *Dash et al*[[paper](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)]
