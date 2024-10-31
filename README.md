@@ -85,6 +85,13 @@ This repository provides an overview of RAI papers in the following areas:
 
 
 ## 3. Datasets
+- **AI Risk Database** [[Link](https://airisk.io/)] 
+- **AI Risk Repository** [[Link](https://airisk.mit.edu)] 
+- **ARC AGI** [[Link](https://github.com/fchollet/ARC-AGI)]
+- **Common Corpus** [[Link](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)]
+- **An ImageNet replacement for self-supervised pretraining without humans** [[Link](https://www.robots.ox.ac.uk/~vgg/research/pass/)]
+- **Huggingface Data Sets** [[Link](https://huggingface.co/datasets)]
+- **The Stack** [[Link](https://www.bigcode-project.org/docs/about/the-stack/)]
 
 
 
