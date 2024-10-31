@@ -1,0 +1,161 @@
+<svg viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Same gradients as before -->
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+    
+    <linearGradient id="accent-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    
+    <linearGradient id="highlight-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <!-- Circular gradient for center icon -->
+    <radialGradient id="center-gradient" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </radialGradient>
+    
+    <!-- Filters remain the same -->
+    <filter id="strong-glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#6366f1" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="subtle-glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#6366f1" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background elements remain the same -->
+  <rect width="100%" height="100%" fill="url(#bg-gradient)"/>
+  
+  <g opacity="0.15">
+    <path d="M0,320 Q320,280 640,320 T1280,320" stroke="url(#highlight-gradient)" stroke-width="2" fill="none"/>
+    <path d="M0,340 Q320,300 640,340 T1280,340" stroke="url(#highlight-gradient)" stroke-width="2" fill="none"/>
+    <path d="M0,360 Q320,320 640,360 T1280,360" stroke="url(#highlight-gradient)" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Main title -->
+  <g transform="translate(640,200)" filter="url(#strong-glow)">
+    <text x="0" y="0" font-family="Arial" font-size="96" font-weight="bold" 
+          text-anchor="middle" fill="#ffffff">
+      Responsible AI
+    </text>
+  </g>
+  
+  <!-- Left side icons remain same except for adjusted positions -->
+  <g transform="translate(250,340)">
+    <!-- Privacy icon and text -->
+    <g transform="translate(0,0)" filter="url(#subtle-glow)">
+      <path d="M-25,-20 a25,25 0 0,1 50,0 v10 h10 v40 h-70 v-40 h10 v-10 M-15,-20 a15,15 0 0,1 30,0 v10 h-30 v-10" 
+            fill="none" stroke="#818cf8" stroke-width="2"/>
+      <text x="45" y="10" font-family="Arial" font-size="26" fill="#818cf8" font-weight="bold">Privacy</text>
+    </g>
+    
+    <!-- Security icon and text -->
+    <g transform="translate(0,80)" filter="url(#subtle-glow)">
+      <path d="M0,-30 L30,-15 L30,15 C30,30 0,40 0,40 C0,40 -30,30 -30,15 L-30,-15 Z" 
+            fill="none" stroke="#38bdf8" stroke-width="2"/>
+      <path d="M-10,0 L-5,10 L15,-10" 
+            stroke="#38bdf8" stroke-width="2" fill="none"/>
+      <text x="45" y="10" font-family="Arial" font-size="26" fill="#38bdf8" font-weight="bold">Security</text>
+    </g>
+  </g>
+  
+  <!-- Right side icons with new fairness icon -->
+  <g transform="translate(930,340)">
+    <!-- New Fairness icon and text -->
+    <g transform="translate(0,0)" filter="url(#subtle-glow)">
+      <!-- New justice/equality symbol -->
+      <path d="M-30,-20 L30,-20" stroke="#a855f7" stroke-width="3"/>
+      <path d="M-20,-30 L-20,30 M20,-30 L20,30" stroke="#a855f7" stroke-width="2"/>
+      <circle cx="-20" cy="-10" r="5" fill="#a855f7"/>
+      <circle cx="20" cy="-10" r="5" fill="#a855f7"/>
+      <path d="M-30,20 L30,20" stroke="#a855f7" stroke-width="3"/>
+      <text x="45" y="10" font-family="Arial" font-size="26" fill="#a855f7" font-weight="bold">Fairness</text>
+    </g>
+    
+    <!-- Transparency icon and text -->
+    <g transform="translate(0,80)" filter="url(#subtle-glow)">
+      <path d="M-35,0 C-20,-20 20,-20 35,0 C20,20 -20,20 -35,0 Z" 
+            stroke="#6366f1" stroke-width="2" fill="none"/>
+      <circle cx="0" cy="0" r="8" stroke="#6366f1" stroke-width="2" fill="none"/>
+      <circle cx="0" cy="0" r="3" fill="#6366f1"/>
+      <text x="45" y="10" font-family="Arial" font-size="26" fill="#6366f1" font-weight="bold">Transparency</text>
+    </g>
+  </g>
+  
+  <!-- New center visualization -->
+  <g transform="translate(640,380)" filter="url(#strong-glow)">
+    <!-- Outer circuit ring -->
+    <circle cx="0" cy="0" r="100" stroke="url(#accent-gradient)" stroke-width="2" fill="none"/>
+    <circle cx="0" cy="0" r="80" stroke="url(#accent-gradient)" stroke-width="1" fill="none"/>
+    
+    <!-- Binary data flow -->
+    <path d="M-90,-90 C-30,-30 30,-30 90,-90" stroke="#38bdf8" stroke-width="1" fill="none"/>
+    <path d="M-90,90 C-30,30 30,30 90,90" stroke="#38bdf8" stroke-width="1" fill="none"/>
+    
+    <!-- Central AI processor representation -->
+    <g>
+      <!-- Hexagonal core -->
+      <path d="M0,-40 L34.6,-20 L34.6,20 L0,40 L-34.6,20 L-34.6,-20 Z" 
+            fill="url(#center-gradient)" stroke="#6366f1" stroke-width="2"/>
+      
+      <!-- Inner circuit patterns -->
+      <path d="M0,-20 L17.3,-10 L17.3,10 L0,20 L-17.3,10 L-17.3,-10 Z" 
+            fill="none" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+      
+      <!-- Connection points -->
+      <circle cx="0" cy="-40" r="4" fill="#38bdf8"/>
+      <circle cx="34.6" cy="-20" r="4" fill="#38bdf8"/>
+      <circle cx="34.6" cy="20" r="4" fill="#38bdf8"/>
+      <circle cx="0" cy="40" r="4" fill="#38bdf8"/>
+      <circle cx="-34.6" cy="20" r="4" fill="#38bdf8"/>
+      <circle cx="-34.6" cy="-20" r="4" fill="#38bdf8"/>
+    </g>
+    
+    <!-- Orbiting data points -->
+    <g>
+      <circle cx="70.7" cy="70.7" r="5" fill="#a855f7"/>
+      <circle cx="-70.7" cy="70.7" r="5" fill="#a855f7"/>
+      <circle cx="70.7" cy="-70.7" r="5" fill="#a855f7"/>
+      <circle cx="-70.7" cy="-70.7" r="5" fill="#a855f7"/>
+    </g>
+    
+    <!-- Connection lines -->
+    <g opacity="0.6">
+      <path d="M-70.7,-70.7 L-34.6,-20" stroke="url(#highlight-gradient)" stroke-width="1"/>
+      <path d="M70.7,-70.7 L34.6,-20" stroke="url(#highlight-gradient)" stroke-width="1"/>
+      <path d="M-70.7,70.7 L-34.6,20" stroke="url(#highlight-gradient)" stroke-width="1"/>
+      <path d="M70.7,70.7 L34.6,20" stroke="url(#highlight-gradient)" stroke-width="1"/>
+    </g>
+  </g>
+  
+  <!-- Bottom tagline -->
+  <g transform="translate(640,540)" filter="url(#subtle-glow)">
+    <text x="0" y="0" font-family="Arial" font-size="24" font-weight="500"
+          text-anchor="middle" fill="#c7d2fe">
+      Building Trust Through Ethical Innovation
+    </text>
+  </g>
+</svg>
