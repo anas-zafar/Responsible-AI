@@ -24,5 +24,9 @@ This repository provides an overview of RAI papers in the following areas:
 
 ## 2. RAI Papers
 - **Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective** * Mousa Al-kfairy ,Dheya Mustafa*[[paper](https://arxiv.org/pdf/2410.09985)]
+- **Focus! Rating XAI Methods and Finding Biases** *Anna Arias-Duart, Ferran Parés*[[paper](https://ieeexplore.ieee.org/abstract/document/9882821)]
+- **Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI** *Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez*[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)]
+- **A Review on Explainable Artificial Intelligence for Healthcare: Why, How, and When?** * Subrato Bharati, M. Rubaiyat Hossain Mondal*[[paper](https://arxiv.org/abs/2304.04780)]
+- **Fairness in Machine Learning: A Survey** *Simon Caton, Christian Haas*[[paper](https://dl.acm.org/doi/10.1145/3616865)]
 
 
