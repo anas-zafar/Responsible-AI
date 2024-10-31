@@ -1,4 +1,4 @@
-<h1 align="center">Responsible-AI</h1>
+<h1 align="center">RESPONSIBLE AI</h1>
 <div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
 ## Overview
