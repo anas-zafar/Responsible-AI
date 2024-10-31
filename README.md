@@ -19,7 +19,7 @@ This repository provides an overview of RAI papers in the following areas:
 ## 1. Existing RAI Surveys
 - [2024/10] **Responsible AI in the Global Context: Maturity Model and Survey** *Anka Reuel,Patrick Connolly* [[paper](https://arxiv.org/pdf/2410.09985)]
 - [2024/4] **Responsible AI Pattern Catalogue: A Collection of Best Practices for AI Governance and Engineering** *Qinghua Lu, Liming Zhu* [[paper](https://dl.acm.org/doi/full/10.1145/3626234)]
-- [2024/2] **Toward Responsible Artificial Intelligence in Long-Term Care: A Scoping Review on Practical Approaches** *Dirk R M Lukkien, MSc, Henk Herman Nap, PhD* [[paper(https://academic.oup.com/gerontologist/article/63/1/155/6454353)]]
+- [2024/2] **Toward Responsible Artificial Intelligence in Long-Term Care: A Scoping Review on Practical Approaches** *Dirk R M Lukkien, MSc, Henk Herman Nap, PhD* [[paper](https://academic.oup.com/gerontologist/article/63/1/155/6454353)]
 - [2023/10] **Responsible AI (RAI) Games and Ensembles** *Yash Gupta, Runtian Zhai, Arun Suggala, Pradeep Ravikumar* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e6057bf047bcc5f86ebf4e8db6e24a1f-Abstract-Conference.html)]
 
 
