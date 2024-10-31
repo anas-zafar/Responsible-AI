@@ -68,6 +68,17 @@ This repository provides an overview of RAI papers in the following areas:
 - **Sustainable AI: AI for sustainability and the sustainability of AI** *van Wynsberghe, A.* [[paper](https://link.springer.com/article/10.1007/s43681-021-00043-6)]
 - **Green Algorithms: Quantifying the carbon emissions of computation** *Lannelongue, L. et al* [[paper](https://arxiv.org/abs/2007.07610)]
 - **Sustainable AI: Environmental implications, challenges, and opportunities** *Wu, C.-J., Raghavendra, R., Gupta, U., Acun, B., Ardalani, N., Maeng, K., Chang, G., Aga, F., Huang, J., Bai, C., Gschwind, M., Gupta, A., Ott, M., Melnikov, A., Candido, S., Brooks, D., Chauhan, G., Lee, B., Lee, H.-H., & Hazelwood, K.* [[paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/462211f67c7d858f663355eff93b745e-Paper.pdf)]
+- **A Survey on Knowledge Graphs: Representation, Acquisition, and Applications** *IEEE Transactions on Neural Networks and Learning Systems* [[paper](summaries/explainability/knowlege_graphs_survey.md)]
+- **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** *NeurIPS* [[paper](summaries/explainability/CoT.md)]
+- **A Nutritional Label for Rankings** *SIGMOD’18* [[paper](summaries/explainability/Nutritional_Label.md)]
+- **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** *arXiv, 2024* [[paper](summaries/explainability/GoT.md)]
+- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** *NeurIPS* [[paper](summaries/explainability/ToT.md)]
+- **Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models** *ICML 2024* [[paper](summaries/explainability/Patchscopes.md)]
+- **A Unified Approach to Interpreting Model Predictions** *NIPS 2017* [[paper](summaries/explainability/SHAP.md)]
+- **Sparse Autoencoders Find Highly Interpretable Features in Language Models** *arXiv, 2023* [[paper](summaries/explainability/SAE-interpret.md)]
+- **Why Should I Trust You? Explaining the Predictions of Any Classifier** *KDD 2016* [[papaer](summaries/explainability/LIME.md)]
+- **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation** *ICML 2024* [[paper](summaries/explainability/LLM_random_walk.md)]
+
 
 ## 3. Datasets
 
