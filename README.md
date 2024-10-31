@@ -23,5 +23,6 @@ This repository provides an overview of RAI papers in the following areas:
 - [2023/10] **Responsible AI (RAI) Games and Ensembles** *Yash Gupta, Runtian Zhai, Arun Suggala, Pradeep Ravikumar* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e6057bf047bcc5f86ebf4e8db6e24a1f-Abstract-Conference.html)]
 
 ## 2. RAI Papers
+- **Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective** * Mousa Al-kfairy ,Dheya Mustafa*[[paper](https://arxiv.org/pdf/2410.09985)]
 
 
