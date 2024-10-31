@@ -43,7 +43,7 @@ This repository provides an overview of RAI papers in the following areas:
 - **The energy and carbon footprint of training end-to-end speech recognizers** *Parcollet, T., & Ravanelli, M.* [[paper](https://hal.archives-ouvertes.fr/hal-03190119/document)]
 - **Carbon emissions and large neural network training** *Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L.M., Rothchild, D., So, D., Texier, M., and Dean, J.* [[paper](https://arxiv.org/abs/2104.10350)]
 - **Hidden technical debt in machine learning systems** *Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Dennison, D.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)]
-- **Machine learning: The high interest credit card of technical debt** *Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M.* [[Article](https://research.google/pubs/pub43146/)]
+- **Machine learning: The high interest credit card of technical debt** *Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M.* [[paper](https://research.google/pubs/pub43146/)]
 - **Energy and policy considerations for deep learning in NLP** *Strubell, E., Ganesh, A., & McCallum, A.* [[paper](https://arxiv.org/abs/1906.02243)]
 - **Sustainable AI: AI for sustainability and the sustainability of AI** *van Wynsberghe, A.* [[paper](https://link.springer.com/article/10.1007/s43681-021-00043-6)]
 - **Green Algorithms: Quantifying the carbon emissions of computation** *Lannelongue, L. et al.* [[paper](https://arxiv.org/abs/2007.07610)]
