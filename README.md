@@ -1,7 +1,7 @@
 <h1 align="center">Responsible AI</h1>
 <div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
-## Overview
+## 🌟 Overview
 Welcome to the official repository for Responsible AI. Here you will a list of comprehensive latest papers for Responsible AI domain
 
 ## What is Responsible AI?
