@@ -1,5 +1,5 @@
 # Responsible-AI
-The official GitHub page for the paper "Responsible AI Survey"
+<div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
 ## Overview
 Welcome to the official repository for Responsible AI. Here you will a list of comprehensive latest papers for responsible AI domain
