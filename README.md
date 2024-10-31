@@ -35,3 +35,4 @@ This repository provides an overview of RAI papers in the following areas:
 - **Contrastive Explanations Method with Monotonic Attribute Functions** *Luss et al*[[paper](https://arxiv.org/abs/1905.12698)]
 - **Boolean Decision Rules via Column Generation** *Dash et al*[[paper](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)]
 - **Socially Responsible AI Algorithms: Issues, Purposes, and Challenges** *L Cheng, KR Varshney*[[paper](https://www.jair.org/index.php/jair/article/view/12814)]
+- **Explainable AI (XAI): Core ideas, techniques, and solutions** *R Dwivedi, D Dave*[[paper](https://dl.acm.org/doi/abs/10.1145/3561048)]
