@@ -22,4 +22,6 @@ This repository provides an overview of RAI papers in the following areas:
 - [2024/2] **Toward Responsible Artificial Intelligence in Long-Term Care: A Scoping Review on Practical Approaches** *Dirk R M Lukkien, MSc, Henk Herman Nap, PhD* [[paper](https://academic.oup.com/gerontologist/article/63/1/155/6454353)]
 - [2023/10] **Responsible AI (RAI) Games and Ensembles** *Yash Gupta, Runtian Zhai, Arun Suggala, Pradeep Ravikumar* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e6057bf047bcc5f86ebf4e8db6e24a1f-Abstract-Conference.html)]
 
+## 1. RAI Papers
+
 
