@@ -47,4 +47,16 @@ This repository provides an overview of RAI papers in the following areas:
 - **Energy and policy considerations for deep learning in NLP** *Strubell, E., Ganesh, A., & McCallum, A.* [[paper](https://arxiv.org/abs/1906.02243)]
 - **Sustainable AI: AI for sustainability and the sustainability of AI** *van Wynsberghe, A.* [[paper](https://link.springer.com/article/10.1007/s43681-021-00043-6)]
 - **Green Algorithms: Quantifying the carbon emissions of computation** *Lannelongue, L. et al.* [[paper](https://arxiv.org/abs/2007.07610)]
+- **Trust in Machine Learning** *Varshney, K. (2022)* [[paper](https://www.manning.com/books/trust-in-machine-learning)]
+- **Interpretable AI** *Thampi, A. (2022)* [[paper](https://www.manning.com/books/interpretable-ai)] 
+- **AI Fairness** *Mahoney, T., Varshney, K.R., Hind, M. (2020)* [[paper](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/)] 
+- **Practical Fairness** *Nielsen, A. (2021)* [[paper](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)]
+- **Hands-On Explainable AI (XAI) with Python** *Rothman, D. (2020)* [[paper](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131)] 
+- **AI and the Law** *Kilroy, K. (2021)* [[paper](https://learning.oreilly.com/library/view/ai-and-the/9781492091837/)]
+- **Responsible Machine Learning** *Hall, P., Gill, N., Cox, B. (2020)* [[paper](https://learning.oreilly.com/library/view/responsible-machine-learning/9781492090878/)] 
+- **Privacy-Preserving Machine Learning** [[paper](https://www.manning.com/books/privacy-preserving-machine-learning)]
+- **Human-In-The-Loop Machine Learning: Active Learning and Annotation for Human-Centered AI** [[paper](https://www.manning.com/books/human-in-the-loop-machine-learning)]
+- **Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples** [[paper](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)]
+- **Responsible AI** *Hall, P., Chowdhury, R. (2023)* [[paper](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)] 
+
 
