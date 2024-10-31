@@ -76,11 +76,16 @@ This repository provides an overview of RAI papers in the following areas:
 - **Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models** *ICML 2024* [[paper](summaries/explainability/Patchscopes.md)]
 - **A Unified Approach to Interpreting Model Predictions** *NIPS 2017* [[paper](summaries/explainability/SHAP.md)]
 - **Sparse Autoencoders Find Highly Interpretable Features in Language Models** *arXiv, 2023* [[paper](summaries/explainability/SAE-interpret.md)]
-- **Why Should I Trust You? Explaining the Predictions of Any Classifier** *KDD 2016* [[papaer](summaries/explainability/LIME.md)]
+- **Why Should I Trust You? Explaining the Predictions of Any Classifier** *KDD 2016* [[paper](summaries/explainability/LIME.md)]
 - **Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation** *ICML 2024* [[paper](summaries/explainability/LLM_random_walk.md)]
+- **Evolving Generative AI: Entangling the Accountability Relationship** *Marc T.J Elliott, Deepak P* [[paper](https://dl.acm.org/doi/abs/10.1145/3664823)]
+- **Ted-spad: Temporal distinctiveness for self-supervised privacy-preservation for video anomaly detection** *J Fioresi, IR Dave, M Shah* [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Fioresi_TeD-SPAD_Temporal_Distinctiveness_for_Self-Supervised_Privacy-Preservation_for_Video_Anomaly_Detection_ICCV_2023_paper.html)]
+- **FAIR Enough: Develop and Assess a FAIR-Compliant Dataset for Large Language Model Training?** *S Raza, S Ghuge, C Ding, E Dolatabadi, D Pandya* [[paper](https://direct.mit.edu/dint/article/6/2/559/123375)]  
+- **Exploring Memorization and Copyright Violation in Frontier LLMs: A Study of the New York Times v. OpenAI 2023 Lawsuit** *J Freeman, C Rippe, E Debenedetti, M Andriushchenko* [[paper](https://openreview.net/forum?id=C66DBl9At8)]  
 
 
 ## 3. Datasets
+
 
 
 
