@@ -16,4 +16,7 @@ This repository provides an overview of RAI papers in the following areas:
 - **Ethical Implications**
 - **AI Welfare And Rights**
 
+## 1. Existing RAI Surveys
+- [2024/10] **Responsible AI in the Global Context: Maturity Model and Survey** *Anka Reuel*,Patrick Connolly* [[paper](https://arxiv.org/pdf/2410.09985)]
+
 
