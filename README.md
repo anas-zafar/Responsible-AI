@@ -94,5 +94,21 @@ This repository provides an overview of RAI papers in the following areas:
 - **The Stack** [[Link](https://www.bigcode-project.org/docs/about/the-stack/)]
 
 
+## 4. Contributing Authors
+- SHAINA RAZA∗, Vector Institute, Canada
+- RIZWAN QURESHI∗, Center for Research in Computer Vision, The University of Central Florida, USA
+- ANAM ZAHID, Department of Computer Science, Information Technology University of the Punjab, Pakistan
+- JOE FIORESI, Center for Research in Computer Vision, The University of Central Florida, USA
+- MAGED SHOMAN, University of Tennessee; Oak Ridge National Lab, USA
+- FERHAT SADAK, Department of Mechanical Engineering, Bartin University, Türkiye
+- MUHAMMAED SAEED, Saarland University, Germany
+- RANJAN SAPKOTA, Washington State University, USA
+- ADITYA JAIN, University of Texas at Austin, USA
+- ANAS ZAFAR, Fast School of Computing, National University of Computer and Emerging Sciences, Pakistan
+- MUNEEB UL HASSAN, School of Information Technology, Deakin University, Australia
+- FAHAD SHAHBAZ KHAN, Mohammed Bin Zayed University of Artificial Intelligence, UAE
+- MUBARAK SHAH, Center for Research in Computer Vision, The University of Central Florida, USA
+
+*Equal contributors
 
 
