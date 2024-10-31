@@ -57,6 +57,17 @@ This repository provides an overview of RAI papers in the following areas:
 - **Privacy-Preserving Machine Learning** [[paper](https://www.manning.com/books/privacy-preserving-machine-learning)]
 - **Human-In-The-Loop Machine Learning: Active Learning and Annotation for Human-Centered AI** [[paper](https://www.manning.com/books/human-in-the-loop-machine-learning)]
 - **Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples** [[paper](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)]
-- **Responsible AI** *Hall, P., Chowdhury, R.* [[paper](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)] 
+- **Responsible AI** *Hall, P., Chowdhury, R.* [[paper](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)]
+- **Quantifying the carbon emissions of machine learning** *Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T.* [[paper](https://arxiv.org/abs/1910.09700)]
+- **Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models** *Li, P., Yang, J., Islam, M. A., & Ren, S.* [[paper](https://arxiv.org/pdf/2304.03271)]
+- **The energy and carbon footprint of training end-to-end speech recognizers** *Parcollet, T., & Ravanelli, M.* [[paper](https://hal.archives-ouvertes.fr/hal-03190119/document)]
+- **Carbon emissions and large neural network training** *Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L.M., Rothchild, D., So, D., Texier, M., & Dean, J.* [[paper](https://arxiv.org/abs/2104.10350)]
+- **Hidden technical debt in machine learning systems** *Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D.,& Dennison, D.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)] 
+- **Machine learning: The high interest credit card of technical debt** *Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D.,& Young, M.* [[paper](https://research.google/pubs/pub43146/)] 
+- **Energy and policy considerations for deep learning in NLP** *Strubell, E., Ganesh, A., & McCallum, A.* [[paper](https://arxiv.org/abs/1906.02243)]
+- **Sustainable AI: AI for sustainability and the sustainability of AI** *van Wynsberghe, A.* [[paper](https://link.springer.com/article/10.1007/s43681-021-00043-6)]
+- **Green Algorithms: Quantifying the carbon emissions of computation** *Lannelongue, L. et al* [[paper](https://arxiv.org/abs/2007.07610)]
+- **Sustainable AI: Environmental implications, challenges, and opportunities** *Wu, C.-J., Raghavendra, R., Gupta, U., Acun, B., Ardalani, N., Maeng, K., Chang, G., Aga, F., Huang, J., Bai, C., Gschwind, M., Gupta, A., Ott, M., Melnikov, A., Candido, S., Brooks, D., Chauhan, G., Lee, B., Lee, H.-H., & Hazelwood, K.* [[paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/462211f67c7d858f663355eff93b745e-Paper.pdf)]
+
 
 
