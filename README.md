@@ -100,13 +100,13 @@ This repository provides an overview of RAI papers in the following areas:
 
 ## 4. Applications
 - Education
-- Environmental Stability
-- Society
-- Polictics 
-- Healthcare
-- Finance
-- Defense
-- Arts and Entertainment
+- 🌍Environmental Stability
+- 👥Society
+- ⚖️Polictics 
+- 🩺Healthcare
+- 💰Finance
+- 🛡️Defense
+- 🎨Arts and Entertainment
 
 ## 5. Contributing Authors
 - SHAINA RAZA∗, Vector Institute, Canada
