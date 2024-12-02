@@ -98,8 +98,10 @@ This repository provides an overview of RAI papers in the following areas:
 - **Huggingface Data Sets** [[Link](https://huggingface.co/datasets)]
 - **The Stack** [[Link](https://www.bigcode-project.org/docs/about/the-stack/)]
 
+## 4. Applications
+<div align=center><img src="Applications.PNG" width="90%"/></div>
 
-## 4. Contributing Authors
+## 5. Contributing Authors
 - SHAINA RAZA∗, Vector Institute, Canada
 - RIZWAN QURESHI∗, Center for Research in Computer Vision, The University of Central Florida, USA
 - ANAM ZAHID, Department of Computer Science, Information Technology University of the Punjab, Pakistan
