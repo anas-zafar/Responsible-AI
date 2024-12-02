@@ -87,7 +87,7 @@ This repository provides an overview of RAI papers in the following areas:
 - **Ted-spad: Temporal distinctiveness for self-supervised privacy-preservation for video anomaly detection** *J Fioresi, IR Dave, M Shah* [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Fioresi_TeD-SPAD_Temporal_Distinctiveness_for_Self-Supervised_Privacy-Preservation_for_Video_Anomaly_Detection_ICCV_2023_paper.html)]
 - **FAIR Enough: Develop and Assess a FAIR-Compliant Dataset for Large Language Model Training?** *S Raza, S Ghuge, C Ding, E Dolatabadi, D Pandya* [[paper](https://direct.mit.edu/dint/article/6/2/559/123375)]  
 - **Exploring Memorization and Copyright Violation in Frontier LLMs: A Study of the New York Times v. OpenAI 2023 Lawsuit** *J Freeman, C Rippe, E Debenedetti, M Andriushchenko* [[paper](https://openreview.net/forum?id=C66DBl9At8)]
-- **Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction  ** *Renee Shelby,Shalaleh Rismani,Negar Rostamzadeh* [[paper](https://dl.acm.org/doi/full/10.1145/3613904.3642461)]
+- **Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction** *Renee Shelby,Shalaleh Rismani,Negar Rostamzadeh* [[paper](https://dl.acm.org/doi/full/10.1145/3613904.3642461)]
 
 
 
