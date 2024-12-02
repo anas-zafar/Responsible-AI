@@ -99,7 +99,7 @@ This repository provides an overview of RAI papers in the following areas:
 - **The Stack** [[Link](https://www.bigcode-project.org/docs/about/the-stack/)]
 
 ## 4. Applications
-- Education
+- 📚Education
 - 🌍Environmental Stability
 - 👥Society
 - ⚖️Polictics 
