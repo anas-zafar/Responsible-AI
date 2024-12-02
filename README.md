@@ -8,13 +8,13 @@ Welcome to the official repository for our Responsible AI survey paper. Here you
 Responsible Artificial Intelligence (RAI) encompasses the principles, practices, and frameworks governing the design, deployment, and operation of AI systems to ensure they function in accordance with ethical standards, maintain transparency in their decision-making processes, demonstrate clear accountability mechanisms, and fundamentally align with societal values and human welfare objectives.
 
 This repository provides an overview of RAI papers in the following areas:
-- **Policy and Governance**
 - **Explainable AI [XAI]**
-- **Privacy**
-- **Security**
+- **Ethical Considerations**
+- **Sector Application**
+- **Advanced Models**
 - **Safety**
-- **Ethical Implications**
-- **AI Welfare And Rights**
+- **Privacy and Security**
+- **Regularity and Frameworks**
 
 ## 1. Existing RAI Surveys
 - [2024/10] **Responsible AI in the Global Context: Maturity Model and Survey** *Anka Reuel,Patrick Connolly* [[paper](https://arxiv.org/pdf/2410.09985)]
