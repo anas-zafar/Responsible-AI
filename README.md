@@ -9,8 +9,9 @@ Responsible Artificial Intelligence (RAI) encompasses the principles, practices,
 
 
 <div align="center">
-    <iframe src="RAI_Taxonomy.pdf" width="90%" height="600px"></iframe>
+    <img src="RAI_Taxonomy_Page1.png" width="90%">
 </div>
+
 
 
 This repository provides an overview of RAI papers in the following areas:
