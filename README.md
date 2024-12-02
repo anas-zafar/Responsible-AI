@@ -7,6 +7,9 @@ Welcome to the official repository for our Responsible AI survey paper. Here you
 ## What is Responsible AI?
 Responsible Artificial Intelligence (RAI) encompasses the principles, practices, and frameworks governing the design, deployment, and operation of AI systems to ensure they function in accordance with ethical standards, maintain transparency in their decision-making processes, demonstrate clear accountability mechanisms, and fundamentally align with societal values and human welfare objectives.
 
+
+<div align=center><img src="RAI_Taxonomy.pdf" width="90%"/></div>
+
 This repository provides an overview of RAI papers in the following areas:
 - **Explainable AI [XAI]**
 - **Ethical Considerations**
