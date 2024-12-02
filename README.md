@@ -22,6 +22,7 @@ This repository provides an overview of RAI papers in the following areas:
 - **Regularity and Frameworks**
 
 ## 1. Existing RAI Surveys
+- [2024] **Evaluating privacy, security, and trust perceptions in conversational AI: A systematic review** *A Leschanowsky, S Rech, B Popp, T Bäckström* [[paper](https://www.sciencedirect.com/science/article/pii/S0747563224002127)]
 - [2024/10] **Responsible AI in the Global Context: Maturity Model and Survey** *Anka Reuel,Patrick Connolly* [[paper](https://arxiv.org/pdf/2410.09985)]
 - [2024/4] **Responsible AI Pattern Catalogue: A Collection of Best Practices for AI Governance and Engineering** *Qinghua Lu, Liming Zhu* [[paper](https://dl.acm.org/doi/full/10.1145/3626234)]
 - [2024/2] **Toward Responsible Artificial Intelligence in Long-Term Care: A Scoping Review on Practical Approaches** *Dirk R M Lukkien, MSc, Henk Herman Nap, PhD* [[paper](https://academic.oup.com/gerontologist/article/63/1/155/6454353)]
