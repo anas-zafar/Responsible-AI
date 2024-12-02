@@ -99,7 +99,14 @@ This repository provides an overview of RAI papers in the following areas:
 - **The Stack** [[Link](https://www.bigcode-project.org/docs/about/the-stack/)]
 
 ## 4. Applications
-<div align=center><img src="Applications.PNG" width="90%"/></div>
+- Education
+- Environmental Stability
+- Society
+- Polictics 
+- Healthcare
+- Finance
+- Defense
+- Arts and Entertainment
 
 ## 5. Contributing Authors
 - SHAINA RAZA∗, Vector Institute, Canada
