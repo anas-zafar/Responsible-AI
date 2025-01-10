@@ -1,4 +1,4 @@
-<h1 align="center">"Who is Accountable? The Data, Model or Regulations? A Review of Bias, Fairness, and Safety towards Responsible AI"</h1>
+<h1 align="center">"Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future"</h1>
 <div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
 ## 🌟 Overview
@@ -117,13 +117,15 @@ This repository provides an overview of RAI papers in the following areas:
 - RIZWAN QURESHI∗, Center for Research in Computer Vision, The University of Central Florida, USA
 - ANAM ZAHID, Department of Computer Science, Information Technology University of the Punjab, Pakistan
 - JOE FIORESI, Center for Research in Computer Vision, The University of Central Florida, USA
-- MAGED SHOMAN, University of Tennessee; Oak Ridge National Lab, USA
 - FERHAT SADAK, Department of Mechanical Engineering, Bartin University, Türkiye
 - MUHAMMAED SAEED, Saarland University, Germany
 - RANJAN SAPKOTA, Washington State University, USA
 - ADITYA JAIN, University of Texas at Austin, USA
 - ANAS ZAFAR, Fast School of Computing, National University of Computer and Emerging Sciences, Pakistan
 - MUNEEB UL HASSAN, School of Information Technology, Deakin University, Australia
+- AIZAN ZAFAR, Center for research in computer vision, University of Central FLorida, USA
+- JIA WU, MD Anderson Cancer Center, The University of Texas, USA
+- MAGED SHOMAN, University of Tennessee; Oak Ridge National Lab, USA
 
 *Equal contributors
 
