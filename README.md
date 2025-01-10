@@ -124,8 +124,6 @@ This repository provides an overview of RAI papers in the following areas:
 - ADITYA JAIN, University of Texas at Austin, USA
 - ANAS ZAFAR, Fast School of Computing, National University of Computer and Emerging Sciences, Pakistan
 - MUNEEB UL HASSAN, School of Information Technology, Deakin University, Australia
-- FAHAD SHAHBAZ KHAN, Mohammed Bin Zayed University of Artificial Intelligence, UAE
-- MUBARAK SHAH, Center for Research in Computer Vision, The University of Central Florida, USA
 
 *Equal contributors
 
