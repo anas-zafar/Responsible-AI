@@ -124,6 +124,8 @@ This repository provides an overview of RAI papers in the following areas:
 - ANAS ZAFAR, Fast School of Computing, National University of Computer and Emerging Sciences, Pakistan
 - MUNEEB UL HASSAN, School of Information Technology, Deakin University, Australia
 - AIZAN ZAFAR, Center for research in computer vision, University of Central FLorida, USA
+- HASAN MAQBOOL, Independent Researcher, USA
+- ASHMAL VAYANI, Center for Research in Computer Vision, University of Central Florida, USA
 - JIA WU, MD Anderson Cancer Center, The University of Texas, USA
 - MAGED SHOMAN, University of Tennessee; Oak Ridge National Lab, USA
 
