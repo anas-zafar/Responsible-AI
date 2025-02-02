@@ -145,3 +145,5 @@ If you find our survey useful for your research, please cite the following paper
   url          = {https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1}
 }
 ```
+[Responsible Generative AI for a Sustainable Future](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1)
+
