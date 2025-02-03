@@ -136,7 +136,7 @@ If you find our survey useful for your research, please cite the following paper
 
 ```
 @article{raza2025responsible,
-  title        = {Responsible Generative AI for a Sustainable Future},
+  title        = {Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future},
   author       = {Shaina Raza and Rizwan Qureshi and Anam Zahid and Joseph Fioresi and Ferhat Sadak and Muhammad Saeed and Ranjan Sapkota and Aditya Jain and Anas Zafar and Muneeb Ul Hassan and Aizan Zafar and Hasan Maqbool and Ashmal Vayani and Jia Wu and Maged Shoman},
   journal      = {TechRxiv Preprints},
   year         = {2025},
@@ -145,5 +145,5 @@ If you find our survey useful for your research, please cite the following paper
   url          = {https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1}
 }
 ```
-[Responsible Generative AI for a Sustainable Future](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1)
+[Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1)
 
