@@ -2,6 +2,7 @@
 <div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
 ## 🌟 Overview
+[Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1)
 Welcome to the official repository for our Responsible AI survey paper. Here you will a list of comprehensive latest papers for Responsible AI domain
 
 ## What is Responsible AI?
@@ -145,5 +146,4 @@ If you find our survey useful for your research, please cite the following paper
   url          = {https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1}
 }
 ```
-[Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1)
 
