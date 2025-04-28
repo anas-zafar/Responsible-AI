@@ -1,4 +1,4 @@
-<h1 align="center">"Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future"</h1>
+<h1 align="center">"Who is Responsible? The Data, Models, Users or Regulations? A Comprehensive Survey on Responsible Generative AI for a Sustainable Future"</h1>
 <div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
 ## 🌟 Overview
