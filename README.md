@@ -427,7 +427,7 @@ This repository provides comprehensive coverage across:
 - **Industry Maturation**: Shift from voluntary guidelines to mandatory compliance frameworks
 - **Environmental Awareness**: Growing focus on sustainable AI and green computing practices
 
-## 7. Future Research Directions (2025+)
+## 7. Future Research Directions
 
 ### Priority Areas for Continued Research:
 
