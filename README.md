@@ -1,4 +1,4 @@
-# "Who is Responsible? The Data, Models, Users or Regulations? A Comprehensive Survey on Responsible Generative AI for a Sustainable Future" - 2025 Updated Edition
+# "Who is Responsible? The Data, Models, Users or Regulations? A Comprehensive Survey on Responsible Generative AI for a Sustainable Future"
 
 <div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
