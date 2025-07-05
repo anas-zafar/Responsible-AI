@@ -243,7 +243,7 @@ This repository provides comprehensive coverage across:
 - [2021] **OECD AI Principles** [[principles](https://www.oecd.org/going-digital/ai/principles/)]
 - [2019] **Ethics Guidelines for Trustworthy AI** *European Commission* [[guidelines](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)]
 
-## 3. Updated Datasets & Resources
+## 3. Datasets & Resources
 
 ### Latest AI Safety & Governance Datasets
 - **AI Risk Database** [[Link](https://airisk.io/)] 
