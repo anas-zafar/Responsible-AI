@@ -1,11 +1,11 @@
-# "Who is Responsible? The Data, Models, Users or Regulations? A Comprehensive Survey on Responsible Generative AI for a Sustainable Future" - 2020-2025 Complete Edition
+# "Who is Responsible? The Data, Models, Users or Regulations? A Comprehensive Survey on Responsible Generative AI for a Sustainable Future" 
 
 <div align=center><img src="rai-cover-refined.svg" width="90%"/></div>
 
 ## 🌟 Overview
 [Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1)
 
-Welcome to the **comprehensive 2020-2025 edition** of our Responsible AI survey paper repository. This extensive collection includes papers and developments spanning five critical years in the Responsible AI domain, documenting the field's evolution from foundational concepts to implemented regulatory frameworks.
+Welcome to the our Responsible AI survey paper repository. This extensive collection includes papers and developments in the Responsible AI domain, documenting the field's evolution from foundational concepts to implemented regulatory frameworks.
 
 ## What is Responsible AI?
 Responsible Artificial Intelligence (RAI) encompasses the principles, practices, and frameworks governing the design, deployment, and operation of AI systems to ensure they function in accordance with ethical standards, maintain transparency in their decision-making processes, demonstrate clear accountability mechanisms, and fundamentally align with societal values and human welfare objectives.
