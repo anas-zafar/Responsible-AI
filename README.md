@@ -453,6 +453,7 @@ This repository provides comprehensive coverage across:
 - SHAINA RAZA∗, Vector Institute, Canada
 - RIZWAN QURESHI∗, Center for Research in Computer Vision, The University of Central Florida, USA
 - ANAM ZAHID, Department of Computer Science, Information Technology University of the Punjab, Pakistan
+- SAFIULLAH KAMAWAL, Queen’s University, Vector Institute, Canada
 - JOE FIORESI, Center for Research in Computer Vision, The University of Central Florida, USA
 - FERHAT SADAK, Department of Mechanical Engineering, Bartin University, Türkiye
 - MUHAMMAED SAEED, Saarland University, Germany
