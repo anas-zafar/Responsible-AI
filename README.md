@@ -10,8 +10,6 @@ Welcome to the our Responsible AI survey paper repository. This extensive collec
 ## What is Responsible AI?
 Responsible Artificial Intelligence (RAI) encompasses the principles, practices, and frameworks governing the design, deployment, and operation of AI systems to ensure they function in accordance with ethical standards, maintain transparency in their decision-making processes, demonstrate clear accountability mechanisms, and fundamentally align with societal values and human welfare objectives.
 
-<div align=center><img src="image2.PNG" width="90%"/></div>
-
 ## 📊 Evolution Summary (2020-2025)
 
 **Key Trends Across the Period:**
