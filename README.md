@@ -451,13 +451,14 @@ This repository provides comprehensive coverage across:
 - SHAINA RAZA∗, Vector Institute, Canada
 - RIZWAN QURESHI∗, Center for Research in Computer Vision, The University of Central Florida, USA
 - ANAM ZAHID, Department of Computer Science, Information Technology University of the Punjab, Pakistan
+- AMGAD MUNEER, The University of Texas MD Anderson Cancer Center, USA
+- ANAS ZAFAR, Fast School of Computing, National University of Computer and Emerging Sciences, Pakistan
 - SAFIULLAH KAMAWAL, Queen’s University, Vector Institute, Canada
-- JOE FIORESI, Center for Research in Computer Vision, The University of Central Florida, USA
 - FERHAT SADAK, Department of Mechanical Engineering, Bartin University, Türkiye
+- JOSEPH FIORESI, Center for Research in Computer Vision, The University of Central Florida, USA
 - MUHAMMAED SAEED, Saarland University, Germany
 - RANJAN SAPKOTA, Washington State University, USA
 - ADITYA JAIN, University of Texas at Austin, USA
-- ANAS ZAFAR, Fast School of Computing, National University of Computer and Emerging Sciences, Pakistan
 - MUNEEB UL HASSAN, School of Information Technology, Deakin University, Australia
 - AIZAN ZAFAR, Center for research in computer vision, University of Central FLorida, USA
 - HASAN MAQBOOL, Independent Researcher, USA
@@ -474,7 +475,7 @@ If you find our survey useful for your research, please cite the following paper
 ```bibtex
 @article{raza2025responsible,
   title={Who is responsible? the data, models, users or regulations? a comprehensive survey on responsible generative ai for a sustainable future},
-  author={Raza, Shaina and Qureshi, Rizwan and Zahid, Anam and Fioresi, Joseph and Sadak, Ferhat and Saeed, Muhammad and Sapkota, Ranjan and Jain, Aditya and Zafar, Anas and Hassan, Muneeb Ul and others},
+  author={Raza, Shaina and Qureshi, Rizwan and Zahid, Anam and Muneer, Amgad and Zafar, Anas and Kamawal, Safiullah and Sadak, Ferhat and Fioresi, Joseph and  Saeed, Muhammad and Sapkota, Ranjan and Jain, Aditya and  Hassan, Muneeb Ul and others},
   journal={arXiv preprint arXiv:2502.08650},
   year={2025}
 }
@@ -482,4 +483,4 @@ If you find our survey useful for your research, please cite the following paper
 
 ---
 
-**Last Updated**: September 2025  
+**Last Updated**: February 2026  
